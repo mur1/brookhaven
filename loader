@@ -1,0 +1,2 @@
+-- // Join the discord server https://discord.gg/XM4zmxMScV
+loadstring(game:HttpGet('https://raw.githubusercontent.com/mur1/brookhaven/main/murihaven'))()
