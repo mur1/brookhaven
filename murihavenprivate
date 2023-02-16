@@ -1,1 +1,5 @@
-
+if game.PlaceId == 4924922222 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/mur1/brookhaven/main/privateMain'))()
+    return
+end
+game.Players.LocalPlayer:Kick("This Game Has No Scripts/No Private Version for this game. -- muri#7777")
